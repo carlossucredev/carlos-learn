@@ -1,0 +1,17 @@
+a)Gravar o seu ano de nascimento. 
+
+2000 = 0010 - 0000 - 0000 - 0000
+
+b) Gravar os últimos dígitos do seu vínculo na FURB. 
+
+6116  = 0110 - 0001 - 0001 - 0110
+
+c) Gravar os 4 primeiros dígitos do seu RG.
+
+0825 = 0000 - 1000 - 0010 - 0101
+
+d) Gravar o ano da Proclamação da República do Brasil 
+
+1889 = 0001 - 1000 - 1000 - 1001
+
+Link do video no Youtube: https://youtu.be/MJVIeYh3xCs
