@@ -5,6 +5,7 @@ theme = "github.com/imfing/hextra"
 
 # Opciones de Hextra
 enableRobotsTXT = true
+disableKinds = ["RSS"]
 
 [author]
 name = "Carlos"
