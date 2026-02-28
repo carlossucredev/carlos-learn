@@ -8,8 +8,8 @@ enableRobotsTXT = true
 disableKinds = ["RSS"]
 
 [author]
-name = "Carlos"
-email = "seu@email.com"
+  name = "Carlos"
+  email = "seu@email.com"
 
 [params]
   description = "Blog usando Hugo + Hextra"
