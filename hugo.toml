@@ -6,6 +6,10 @@ theme = "github.com/imfing/hextra"
 # Opciones de Hextra
 enableRobotsTXT = true
 
+[author]
+name = "Carlos"
+email = "seu@email.com"
+
 [params]
   description = "Blog usando Hugo + Hextra"
   author = "Sucre"
