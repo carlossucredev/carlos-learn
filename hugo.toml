@@ -3,7 +3,7 @@ languageCode = "en"
 title = "Carlos Learn"
 theme = "github.com/imfing/hextra"
 
-# Opciones de Hextra
+# Opciones de Hextra 
 enableRobotsTXT = true
 disableKinds = ["RSS"]
 
