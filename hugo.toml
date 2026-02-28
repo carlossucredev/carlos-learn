@@ -1,6 +1,6 @@
-baseURL = "https://algosucreblog.netlify.app/"
-languageCode = "es"
-title = "Algo Sucre"
+baseURL = "https://carlossucredev.github.io/carlos-learn/"
+languageCode = "en"
+title = "Carlos Learn"
 theme = "github.com/imfing/hextra"
 
 # Opciones de Hextra
