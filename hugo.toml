@@ -1,0 +1,41 @@
+baseURL = "https://algosucreblog.netlify.app/"
+languageCode = "es"
+title = "Algo Sucre"
+theme = "github.com/imfing/hextra"
+
+# Opciones de Hextra
+enableRobotsTXT = true
+
+[params]
+  description = "Blog usando Hugo + Hextra"
+  author = "Sucre"
+  showDate = true
+  showReadingTime = true
+  highlightStyle = "monokai"
+  darkMode = true
+
+[pagination]
+  pagerSize = 10
+
+# --- Navbar ---
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+
