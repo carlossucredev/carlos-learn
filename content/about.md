@@ -1,4 +1,5 @@
 ---
 title: "About Me"
 ---
-¡Hola! Soy Sucre y este es mi blog sobre tecnología, ideas y proyectos.
+
+Hey there! I am Carlos Sucre and this is my blog.

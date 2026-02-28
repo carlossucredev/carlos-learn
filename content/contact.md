@@ -1,4 +1,4 @@
 ---
 title: "Contact"
 ---
-Puedes escribirme a: **algosucre@gmail.com**
+You can write me: **carlossucredev@gmail.com**
