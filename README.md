@@ -1,6 +1,6 @@
 # Carlos Learn
 Based on the **Hextra Starter Template.**
-This repository contains the modifications made to the site (https://algosucreblog.netlify.app/),
+This repository contains the modifications made to the site [Carlos Learn](https://carlossucredev.github.io/carlos-learn/),
 a space dedicated to exploring ideas about programming, technology, critical thinking, and artificial intelligence.
 
 You can check the original template repository for more information.
